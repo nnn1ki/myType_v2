@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
+
+
+
 namespace MyType
 {
     public class ComplexNum
@@ -21,6 +24,18 @@ namespace MyType
             this.imaginary = imaginary;
         }
 
+
+        public static ComplexNum makeComplexFormat(String num) //для вызова без создания объекта 
+        {
+            ComplexNum ans = new ComplexNum();
+
+            String[] RealAndIm = num.Split(new string[] { "+i" }, StringSplitOptions.None); // разделяем строку на действительную и мнимую части
+
+            ans.real = int.Parse(RealAndIm[0]);
+            ans.imaginary = int.Parse(RealAndIm[1]);
+
+            return ans;
+        }
 
         //метод вывода
         public String showAnwer()
@@ -51,10 +66,7 @@ namespace MyType
         }
 
 
-        //public static ComplexNum (ComplexNum num1, ComplexNum num2)
-        //{
-
-        //}
+        
 
 
 
