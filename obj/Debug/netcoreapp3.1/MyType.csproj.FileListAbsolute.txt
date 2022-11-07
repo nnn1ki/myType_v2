@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\MyType\bin\Debug\netcoreapp3.1\MyType.exe
+C:\Users\user\source\repos\MyType\bin\Debug\netcoreapp3.1\MyType.deps.json
+C:\Users\user\source\repos\MyType\bin\Debug\netcoreapp3.1\MyType.runtimeconfig.json
+C:\Users\user\source\repos\MyType\bin\Debug\netcoreapp3.1\MyType.runtimeconfig.dev.json
+C:\Users\user\source\repos\MyType\bin\Debug\netcoreapp3.1\MyType.dll
+C:\Users\user\source\repos\MyType\bin\Debug\netcoreapp3.1\MyType.pdb
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.Form1.resources
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.csproj.GenerateResource.cache
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.AssemblyInfo.cs
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.dll
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.pdb
+C:\Users\user\source\repos\MyType\obj\Debug\netcoreapp3.1\MyType.genruntimeconfig.cache
